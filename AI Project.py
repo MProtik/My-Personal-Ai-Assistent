@@ -52,7 +52,7 @@ def wish():
 
 
 # def get_weather(city):
-#     api = 'aa25dfa89b8526f5bdeffc46c6492a32'
+#     api = 'Api key'
 #     url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={api}&units=metric"
 #     response = requests.get(url)
 #     data = response.json()
