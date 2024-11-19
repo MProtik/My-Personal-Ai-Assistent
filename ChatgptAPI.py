@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key ='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'
+openai.api_key ='api key'
 
 question = 'what is the capital of france'
 
